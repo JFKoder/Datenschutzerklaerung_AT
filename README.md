@@ -1,4 +1,4 @@
-# Generator für Datenschutzerklärung DSGVO Konform (Österreich)
+# Generator für Datenschutzerklärung DSGVO-konform (Österreich)
 Mit diesem Generator kann eine DSGVO Konforme Datenschutzerklärung für Österreich erstellt werden.
  
 Generierte Texte haben eine Creative-Commons-Lizenz, welche auch eine 
